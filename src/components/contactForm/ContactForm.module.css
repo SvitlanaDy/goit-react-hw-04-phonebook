@@ -1,0 +1,37 @@
+.handleSubmit{
+    display: flex;
+ flex-direction: column;
+ align-items: center;
+margin-left: 15px;
+
+
+}
+.label {
+ display: block;
+ margin-bottom: 5px;
+ margin-left: 20px;
+}
+
+.input {
+ display: block;
+ padding: 7px;
+ min-width: 300px;
+ font-size: 18px;
+ border: 1px solid #413535;
+margin-left: 20px;
+ margin-bottom: 10px;
+}
+
+.addBtn {
+   display: block;
+   min-width: 150px;
+   padding: 5px 10px;
+   background-color: #589eea;
+   color: #141313;
+   border: none;
+   font-size: 16px;
+   border-radius: 10px;
+   cursor: pointer;
+   margin-left: 20px;
+   
+ }
